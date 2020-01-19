@@ -1,0 +1,17 @@
+git init
+git add README.md
+git add .
+git commit -m "Nuevo Cambios"
+
+>> git config --global user.email "sheyla.chiri@gmail.com"
+>> git config --global user.name "Sheyla Chiri"
+
+git push
+
+
+# para sincronizar a todo
+git pull
+
+
+# Clonar
+git clone https://github.com/.... Nombredecarpetalocal
